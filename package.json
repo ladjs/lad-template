@@ -1,0 +1,22 @@
+{
+  "name": "lad-template",
+  "description": "sao template for lad",
+  "version": "0.0.1",
+  "author": "Nick Baugh <niftylettuce@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/ladjs/lad-template/issues"
+  },
+  "homepage": "https://github.com/ladjs/lad-template#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ladjs/lad-template.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lad": "latest"
+  }
+}
